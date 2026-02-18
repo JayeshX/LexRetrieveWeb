@@ -18,7 +18,7 @@ import CompareCard from "./components/CompareCard.vue"
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between items-center h-16">
           <div class="flex items-center space-x-2">
-            <img src="C:\Users\User\Desktop\legrag\src\assets\logo.png" alt="Logo" class="h-10 w-10 rounded-lg" />
+            <img src="../src/assets/logo.png" alt="Logo" class="h-10 w-10 rounded-lg" />
             <span class="text-2xl font-bold text-gray-900">LexRetrieve</span>
           </div>
           <div class="hidden md:flex space-x-4">
@@ -34,7 +34,7 @@ import CompareCard from "./components/CompareCard.vue"
         <div class="flex justify-center lg:justify-start mb-12 lg:mb-0">
           <div class="relative">
             <img 
-              src="C:\Users\User\Desktop\legrag\src\assets\lawlogo.jpg" 
+              src="../src/assets/lawlogo.jpg" 
               alt="IPC Multimodal RAG" 
               class="w-80 h-80 md:w-96 md:h-96 rounded-full object-cover shadow-2xl ring-4 ring-white/50"
             />
